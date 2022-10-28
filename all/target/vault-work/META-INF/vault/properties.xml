@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Sample Project - All</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="created">2022-10-27T09:44:04.806Z</entry>
+<entry key="groupId">com.adobe.aem.guides</entry>
+<entry key="name">sample-project.all</entry>
+<entry key="description">All content package for Sample Project</entry>
+<entry key="artifactId">sample-project.all</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="packageType">container</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.adobe.aem.guides</entry>
+</properties>
