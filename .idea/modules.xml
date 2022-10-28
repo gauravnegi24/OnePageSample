@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sample-project.iml" filepath="$PROJECT_DIR$/sample-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/all/sample-project.all.iml" filepath="$PROJECT_DIR$/all/sample-project.all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/sample-project.core.iml" filepath="$PROJECT_DIR$/core/sample-project.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dispatcher/sample-project.dispatcher.ams.iml" filepath="$PROJECT_DIR$/dispatcher/sample-project.dispatcher.ams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/it.tests/sample-project.it.tests.iml" filepath="$PROJECT_DIR$/it.tests/sample-project.it.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.apps/sample-project.ui.apps.iml" filepath="$PROJECT_DIR$/ui.apps/sample-project.ui.apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.apps.structure/sample-project.ui.apps.structure.iml" filepath="$PROJECT_DIR$/ui.apps.structure/sample-project.ui.apps.structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.config/sample-project.ui.config.iml" filepath="$PROJECT_DIR$/ui.config/sample-project.ui.config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.content/sample-project.ui.content.iml" filepath="$PROJECT_DIR$/ui.content/sample-project.ui.content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.frontend/sample-project.ui.frontend.iml" filepath="$PROJECT_DIR$/ui.frontend/sample-project.ui.frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.tests/sample-project.ui.tests.iml" filepath="$PROJECT_DIR$/ui.tests/sample-project.ui.tests.iml" />
+    </modules>
+  </component>
+</project>

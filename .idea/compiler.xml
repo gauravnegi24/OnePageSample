@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sample-project.ui.config" />
+        <module name="sample-project.ui.apps.structure" />
+        <module name="sample-project.ui.apps" />
+        <module name="sample-project.core" />
+        <module name="sample-project.ui.content" />
+        <module name="sample-project.all" />
+        <module name="sample-project.ui.tests" />
+        <module name="sample-project.it.tests" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sample-project" target="1.8" />
+      <module name="sample-project.all" target="1.8" />
+      <module name="sample-project.core" target="1.8" />
+      <module name="sample-project.dispatcher.ams" target="1.8" />
+      <module name="sample-project.it.tests" target="1.8" />
+      <module name="sample-project.ui.apps" target="1.8" />
+      <module name="sample-project.ui.apps.structure" target="1.8" />
+      <module name="sample-project.ui.config" target="1.8" />
+      <module name="sample-project.ui.content" target="1.8" />
+      <module name="sample-project.ui.frontend" target="1.8" />
+      <module name="sample-project.ui.tests" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
